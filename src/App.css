@@ -43,3 +43,13 @@
   color:white;
   font-style: italic;
 }
+
+.navbar
+{
+  padding: 0px;
+}
+
+.accordion-button::after
+{
+  filter: invert(1);
+}
